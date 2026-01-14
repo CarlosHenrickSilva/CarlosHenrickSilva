@@ -41,8 +41,3 @@
 </picture>
 
 ###
-
-<div align="left">
-</div>
-
-###
